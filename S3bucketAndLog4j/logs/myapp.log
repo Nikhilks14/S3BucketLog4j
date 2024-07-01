@@ -1,0 +1,23 @@
+2024-07-01 10:33:53,723 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(TRACE) TRACE Message 
+2024-07-01 10:33:53,730 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(DEBUG) DEGUR Message 
+2024-07-01 10:33:53,731 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(INFO) Info Message  
+2024-07-01 10:33:53,732 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(WARN) WARN Message 
+2024-07-01 10:33:53,732 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(ERROR) ERROR Message 
+2024-07-01 10:33:53,733 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(FATAL) FATAL Message 
+2024-07-01 10:33:53,733 - com.example.s3bucketandlog4j.Controller.LogController [index] -(INFO) Controller 
+2024-07-01 11:15:41,807 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(TRACE) TRACE Message 
+2024-07-01 11:15:41,813 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(DEBUG) DEGUR Message 
+2024-07-01 11:15:41,813 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(INFO) Info Message  
+2024-07-01 11:15:41,813 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(WARN) WARN Message 
+2024-07-01 11:15:41,813 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(ERROR) ERROR Message 
+2024-07-01 11:15:41,814 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(FATAL) FATAL Message 
+2024-07-01 11:15:41,814 - com.example.s3bucketandlog4j.Controller.LogController [index] -(INFO) Controller 
+2024-07-01 17:09:55,146 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(TRACE) TRACE Message 
+2024-07-01 17:09:55,152 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(DEBUG) DEGUR Message 
+2024-07-01 17:09:55,152 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(INFO) Info Message  
+2024-07-01 17:09:55,153 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(WARN) WARN Message 
+2024-07-01 17:09:55,153 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(ERROR) ERROR Message 
+2024-07-01 17:09:55,153 - com.example.s3bucketandlog4j.S3bucketAndLog4jApplication [processData] -(FATAL) FATAL Message 
+2024-07-01 17:09:55,153 - com.example.s3bucketandlog4j.Controller.LogController [index] -(INFO) Controller 
+2024-07-01 17:19:23,317 - com.example.s3bucketandlog4j.Service.FileStore [createBucket] -(INFO) Inside method createBucket 
+2024-07-01 17:19:23,317 - com.example.s3bucketandlog4j.Service.FileStore [bucketAlreadyExists] -(INFO) Inside method bucketAlreadyExists 
